@@ -1,0 +1,18 @@
+.user {
+  width: 100%;
+  display: flex;
+  margin-bottom: 15px;
+
+  background-color: #ebebeb;
+  border-radius: 5px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+.user-image {
+  width: 100px;
+  border-radius: 5px;
+}
+
+.user-description {
+  margin-left: 15px;
+}
